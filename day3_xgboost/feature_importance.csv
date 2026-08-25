@@ -1,0 +1,29 @@
+Feature,Importance
+tenure,0.5281145
+contract_duration,0.20983145
+complaint_trend,0.090643935
+number_of_complaints,0.052247375
+late_payment_count,0.023493273
+avg_monthly_bill,0.01037912
+login_frequency,0.009611427
+city_Los Angeles,0.004566301
+avg_internet_usage,0.0045630597
+city_Chicago,0.004242588
+city_Philadelphia,0.0041210437
+city_San Jose,0.0040476937
+city_Dallas,0.0039175893
+gender_Female,0.0038704965
+city_Houston,0.0037775412
+city_Columbus,0.0036502352
+age,0.003639401
+city_San Francisco,0.0034681237
+gender_Non-binary,0.0034010978
+city_Austin,0.0033606398
+city_Phoenix,0.0033553448
+city_Jacksonville,0.0033395356
+city_New York,0.003289925
+city_San Diego,0.0032021052
+payment_trend,0.0031166438
+city_San Antonio,0.0030505997
+gender_Male,0.0029076322
+city_Indianapolis,0.0027913142
