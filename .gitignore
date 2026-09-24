@@ -4,3 +4,5 @@ __pycache__/
 *.csv.bak
 venv/
 .env
+data/AWSCLIV2.pkg
+day4_sagemaker_hpo.py
